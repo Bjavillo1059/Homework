@@ -76,7 +76,6 @@ p {
     margin-left: 20px;
 }
 
-
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -104,29 +103,13 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+/* combined repetative code into one block*/
+.content img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+/* combined repetative code into one block*/
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
