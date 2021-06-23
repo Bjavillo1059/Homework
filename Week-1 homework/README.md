@@ -27,4 +27,6 @@ xxxxxxx
 
 Refactored CSS-
 
-removed all code that was matching to fit into one class
+removed all code that match to fit into one class
+only code that stands out with specific identifier
+
