@@ -29,4 +29,6 @@ Refactored CSS-
 
 removed all code that match to fit into one class
 only code that stands out with specific identifier
+CSS line 19- added color and removed redundant blocks
+CSS line 33 and 38- removed header div elements unordered list and list, no other list is present so specificity is not needed for multiple blocks
 
