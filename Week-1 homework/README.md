@@ -22,8 +22,8 @@ THEN I find a concise, descriptive title
 
 Refactored html-
 
-xxxxxxx
-xxxxxxx
+refactored line 53, 60, and 67- removed dashes on img class to combine CSS
+
 
 Refactored CSS-
 
