@@ -22,7 +22,8 @@ THEN I find a concise, descriptive title
 
 Refactored html-
 
-refactored line 53, 60, and 67- removed dashes on img class to combine CSS
+refactored line 53, 60, and 67- removed dashes on img class to combine CSS blocks
+
 
 
 Refactored CSS-
